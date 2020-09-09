@@ -1,4 +1,0 @@
-# WebVisualizations
-
-Web-Design Challenge
-
