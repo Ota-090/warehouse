@@ -1,6 +1,6 @@
 #Import necessary libraries
 from flask import Flask, render_template, redirect
-import pymongo
+# import pymongo
 from flask_pymongo import PyMongo
 
 
